@@ -1,0 +1,10 @@
+2025-04-13 19:56:26.221934 - Received CBT.V508.FILE474.PDS from FILE474.XMI 
+2025-04-13 19:56:26.222832 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE474.PDS, moved to PDS/$$$DOC
+2025-04-13 19:56:26.222910 - Found @FILE474.txt (text/plain) in CBT.V508.FILE474.PDS, moved to PDS/@FILE474
+2025-04-13 19:56:26.222985 - Found FINDMEM.txt (text/plain) in CBT.V508.FILE474.PDS, moved to PDS/FINDMEM
+2025-04-13 19:56:26.223046 - Found LIB@CLN1.bin (application/octet-stream) in CBT.V508.FILE474.PDS, moved to PDS/LIB@CLN1
+2025-04-13 19:56:26.223107 - Found LIB@CLN2.txt (text/plain) in CBT.V508.FILE474.PDS, moved to PDS/LIB@CLN2
+2025-04-13 19:56:26.223171 - Found LIB@CLN3.txt (text/plain) in CBT.V508.FILE474.PDS, moved to PDS/LIB@CLN3
+2025-04-13 19:56:26.223240 - Found LIB@CLN4.txt (text/plain) in CBT.V508.FILE474.PDS, moved to PDS/LIB@CLN4
+2025-04-13 19:56:26.223302 - Found LIB@CLN5.txt (text/plain) in CBT.V508.FILE474.PDS, moved to PDS/LIB@CLN5
+2025-04-13 19:56:26.223387 - Found LIBCLEAN.rexx (text/plain) in CBT.V508.FILE474.PDS, moved to PDS/LIBCLEAN
